@@ -1,0 +1,4 @@
+name: OctanePathing
+version: '${project.version}'
+main: com.octane.sllly.octanepathing.OctanePathing
+api-version: 1.19
